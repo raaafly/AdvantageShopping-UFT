@@ -1,0 +1,7 @@
+[Files]
+NumberOfFiles=5
+File1=D:\Projects\UFT Projects\AdvantageShopping-UFT\Test Case\TC_LOGIN\001 - Login With Registered Account;1
+File2=D:\Projects\UFT Projects\AdvantageShopping-UFT\Test Case\TC_LOGIN\002 - Login With Remember Me Feature;1
+File3=D:\Projects\UFT Projects\AdvantageShopping-UFT\Test Case\TC_LOGIN\003 - Verify Login With Facebook;1
+File4=D:\Projects\UFT Projects\AdvantageShopping-UFT\Test Case\TC_LOGIN\004 - Verify Login With Unregistered Account;1
+File5=D:\Projects\UFT Projects\AdvantageShopping-UFT\Test Case\TC_LOGIN\005 - Verify Login Without Fill The Password Field;1
