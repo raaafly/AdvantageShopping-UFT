@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'D:\\Projects\\UFT Projects\\AdvantageShopping-UFT\\Test Case\\TC_LOGIN\\001 - Verify Login With Registered Account\\Res1',namePairs:[]}]};
